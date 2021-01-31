@@ -1,5 +1,3 @@
-const inquirer = require('inquirer');
-const fs = require('fs');
-const path = require('path');
+const inquirer = require('./lib/inquirer.js')
 
-
+inquirer.promptManager();

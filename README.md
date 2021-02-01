@@ -44,15 +44,15 @@ This is a HTML team profile generator that takes user input from command-line an
 ## Screenshoots & Video
 ---
 1. Video of running index.js
-![Screenshoot of index.js](images\running-indexjs.png)
+![Screenshoot of index.js](images/running-indexjs.png)
 [Link: Video of running index.js](https://drive.google.com/file/d/1XqVrzERgK3trqCTu_HQJlTWhNXsDdsn5/view)
 
 2. Video of running test.js
-![Screenshoot of test.js](images\running-testjs.png)
-[Link: Video of running test.js](https://drive.google.com/file/d/1XqVrzERgK3trqCTu_HQJlTWhNXsDdsn5/view)
+![Screenshoot of test.js](images/running-testjs.png)
+[Link: Video of running test.js](https://drive.google.com/file/d/1D5CyAkpe1YLr0AFQPrXAaB5tXb_DFgeb/view)
 
 3. Screenshoot of index.html
-![Screenshoot of index.html](images\indexhtml.PNG)
+![Screenshoot of index.html](images/indexhtml.PNG)
 
 ## Links
 ---

@@ -2,8 +2,7 @@
 
 ## Overview
 ---
-This is a HTML team profile generator that takes user input from command-line and returning a new HTML files with contents matching the user inputs  
-<br />
+This is a HTML team profile generator that takes user input from command-line and returning a new HTML files with contents matching the user inputs 
 
 ## Table of Contents
 ---
@@ -14,15 +13,11 @@ This is a HTML team profile generator that takes user input from command-line an
 * [Links](#links)
 * [License](#license)
 * [Acknowledgements](#acknowledgements)  
-<br />
 
 ## Version History
 ---
 * Version 0.0 - 01-Feb-2021
     initial working app  
-<br />
-
-
 
 ## Installation Methods
 ---
@@ -35,7 +30,6 @@ This is a HTML team profile generator that takes user input from command-line an
     "node ./index.js"
     ```
 * Note: must have `Node.Js` installed first in the computer  
-<br />
 
 ## How It Works
 ---
@@ -46,30 +40,27 @@ This is a HTML team profile generator that takes user input from command-line an
 3. When you exit building the team, `index.html` will be created and stored under `dist` folder.
 
 4. Open the `index.html` to view the created cards of team members.  
-<br />
 
 ## Screenshoots & Video
 ---
 1. Video of running index.js
-![Screenshoot of index.js](.\images\running-indexjs.png)
+![Screenshoot of index.js](images\running-indexjs.png)
 [Link: Video of running index.js](https://drive.google.com/file/d/1XqVrzERgK3trqCTu_HQJlTWhNXsDdsn5/view)
 
 2. Video of running test.js
-![Screenshoot of test.js](.\images\running-testjs.png)
+![Screenshoot of test.js](images\running-testjs.png)
 [Link: Video of running test.js](https://drive.google.com/file/d/1XqVrzERgK3trqCTu_HQJlTWhNXsDdsn5/view)
 
 3. Screenshoot of index.html
-![Screenshoot of index.html](.\images\indexhtml.PNG)
+![Screenshoot of index.html](images\indexhtml.PNG)
 
 ## Links
 ---
 * [ GitHub Source Code](https://github.com/vsumargo/Team-Profile-Generator)  
-<br />
 
 ## License
 ---
 License under the MIT license  
-<br />
 
 ## Acknowledgements
 ---
